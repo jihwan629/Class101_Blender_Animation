@@ -14,6 +14,10 @@
  
 <br>
 
+<img src="https://user-images.githubusercontent.com/31186176/121363452-ee36fa80-c971-11eb-8038-2d98bf6d66a8.png" width="800"/>
+ 
+<br>
+
 ## 애니메이션
 
 <br>
